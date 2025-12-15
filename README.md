@@ -14,10 +14,14 @@ This project was developed as part of the **Full Stack Development** course in t
 
 ---
 
-## Project Structure ##
-Expense-Tracker/
-│
-├── index.html
-├── expensetrackers.css
-├── trackerscript.js
-└── README.md
+## How to Run the Project ##
+1. Clone the repository
+2. Open `index.html` in any modern web browser
+3. Start adding expenses
+
+---
+
+## Academic Note ##
+This project is developed strictly for academic purposes as part of the MCA curriculum.
+
+---
